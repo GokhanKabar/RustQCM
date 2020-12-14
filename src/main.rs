@@ -6,5 +6,5 @@ fn main() {
         println!("Erreur de l'affichage du logiciel RstQcM");
         return;
     }
-    module::qcm();
+    module::qcm::qcm();
 }
