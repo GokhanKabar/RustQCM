@@ -48,7 +48,7 @@ pub fn qcm() {
             );
     }));
 
-    //Boutton anti-triche a venir
+    //Boutton correction 
     correction.connect_clicked(clone!(stockage => move |_| {
         module::generate::gencorec(
             &stockage
