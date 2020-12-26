@@ -37,7 +37,7 @@
           </packing>
         </child>
         <child>
-          <object class="GtkButton" id="corec">
+          <object class="GtkButton" id="correctio">
             <property name="label" translatable="yes">Correction</property>
             <property name="visible">True</property>
             <property name="can_focus">True</property>
@@ -148,11 +148,35 @@
             <property name="can_focus">False</property>
             <property name="margin_right">15</property>
             <property name="margin_top">16</property>
-            <property name="label" translatable="yes">Réponse</property>
+            <property name="margin_bottom">14</property>
+            <property name="label" translatable="yes">Choix</property>
           </object>
           <packing>
             <property name="left_attach">1</property>
             <property name="top_attach">0</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkLabel">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">Réponse</property>
+          </object>
+          <packing>
+            <property name="left_attach">2</property>
+            <property name="top_attach">0</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkEntry" id="correction">
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="margin_top">9</property>
+            <property name="margin_bottom">95</property>
+          </object>
+          <packing>
+            <property name="left_attach">2</property>
+            <property name="top_attach">1</property>
           </packing>
         </child>
       </object>
