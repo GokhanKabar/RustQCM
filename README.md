@@ -24,7 +24,7 @@
 
 -Générer le fichier de ce mode
 
-                                                       _**Utilisation du logiciel **_
+                                          **Utilisation du logiciel **
 **Sans la section correction**
 
 Écriver la première question dans l'entry dédiée puis écrire les 3 choix dont 1 est la bonne réponse.
