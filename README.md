@@ -7,7 +7,7 @@
 
 -Fonction pour ajouter des questions et réponses
 
--Générer un fichier pdf
+-Générer un fichier PDF
 
 
 
@@ -15,14 +15,8 @@
 
 -Une autre interface pour la correction
 
--Générer un fichier correction 
+-Générer un fichier correction en PDF
 
-
-3.Option
-
--Mode anti-triche qui permettrer d’avoir les questions en désordonnée
-
--Générer le fichier de ce mode
 
                                           **Utilisation du logiciel **
 **Sans la section correction**
