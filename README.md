@@ -1,5 +1,5 @@
 # RstQcM
-**Le projet RstQcM est un générateur de QCM en GTK-RS et GLADE **
+**Le projet RstQcM est un générateur de QCM en GTK-RS et GLADE**
 
 1.Base du logiciel
 
@@ -18,19 +18,19 @@
 -Générer un fichier correction en PDF
 
 
-                                          **Utilisation du logiciel **
+                                                 Utilisation du logiciel
 **Sans la section correction**
 
-Écriver la première question dans l'entry dédiée puis écrire les 3 choix dont 1 est la bonne réponse.
-Puis cliquer sur le bouton + et faite générer votre qcm en format pdf
+Écriver la première question dans l'entry dédiée ensuite écrire les 3 choix dont 1 est la bonne réponse.
+Puis cliquer sur le bouton "+" et faite générer votre QCM au format pdf.
 
-**Ajouter d'autre question**
+**Ajouter d'autre questions**
 
-Il suffit tout simplement de supprimer les champs et de réecrire votre question et vos choix puis cliquer sur le bouton + 
+Il faut supprimer tout les champs et de réecrire votre question et vos choix puis appuyer sur le bouton "+"
 
 **Correction**
 
-Lors de la création de votre question et vos choix vous avez une section correction où vous devez mettre la bonne réponse de cet question puis il faudra cliquer sur le bouton + ensuite cliquer sur le boutton correction pour générer un pdf correction
+Lors de la création de votre question et vos choix il y a une section correction où vous devez mettre la bonne réponse de cet question puis il faudra cliquer sur le bouton "+" ensuite cliquer sur le boutton correction pour générer un pdf de correction.
 
 
 
